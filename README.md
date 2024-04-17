@@ -3,6 +3,8 @@
 ## CubeCloud介绍
 CubeCloud是一家云计算服务提供商，专注于提供动态云VPS、云主机和CDN等服务。魔方云的VPS以低资费和大带宽为特点，非常适合中小企业和个人开发者。
 
+![image](https://github.com/sham1420008/CubeCloud/assets/157685618/d9e77f7d-9185-49b4-a765-3de8768d79be)
+
 ## CubeCloud官网地址
 [www.cubecloud.net](https://www.cubecloud.net/aff.php?aff=2426)
 
