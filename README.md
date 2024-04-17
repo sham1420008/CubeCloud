@@ -42,7 +42,7 @@ CubeCloud是一家云计算服务提供商，专注于提供动态云VPS、云�
 
 
 ## CubeCloud配置价格
-如果需要查看最新优惠活动，欢迎访问：[CubeCloud 活动页面]（https://www.cubecloud.net/aff.php?aff=2426&gid=11）
+如果需要查看最新优惠活动，欢迎访问：[CubeCloud 活动页面](https://www.cubecloud.net/aff.php?aff=2426&gid=11)
 
 ### 香港 Pro SSD KVM - CN2 GIA 配置
 
